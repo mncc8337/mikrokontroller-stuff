@@ -12,13 +12,13 @@ const float MAX_VOLTAGE_DIVIDER_RATIO = 0.255050505051;
 LCDI2C_Generic lcd(0x27, 16, 2);
 
 byte plus_minus[8] = {
-  B00000,
-  B00100,
-  B01110,
-  B00100,
-  B00000,
-  B01110,
-  B00000,
+    B00000,
+    B00100,
+    B01110,
+    B00100,
+    B00000,
+    B01110,
+    B00000,
 };
 #define PLUS_MINUS byte(0)
 
