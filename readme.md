@@ -1,5 +1,5 @@
-# esp32 stuff
-some mini esp32 projects, developed using platformio.  
+# mikrokontroller stuff
+some mini micro controller projects (mainly esp32 and rasberry pi pico), developed using platformio.  
 see individual project for schematic and usage.
 ## running
 to build do `pio run --target upload`  
