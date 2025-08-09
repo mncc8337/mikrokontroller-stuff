@@ -3,7 +3,7 @@
 #include <Adafruit_ST7735.h>
 #include <Adafruit_BMP280.h>
 #include <SPI.h>
-#include "linked_list.h"
+#include <linked_list.h>
 
 #define LED 25
 
