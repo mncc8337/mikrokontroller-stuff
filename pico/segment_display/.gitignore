@@ -1,0 +1,5 @@
+.pio
+.cache
+.clang-tidy
+.clangd
+compile_commands.json
